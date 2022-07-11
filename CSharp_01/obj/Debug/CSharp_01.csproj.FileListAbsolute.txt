@@ -1,0 +1,10 @@
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\bin\Debug\CSharp_01.exe.config
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\bin\Debug\CSharp_01.exe
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\bin\Debug\CSharp_01.pdb
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\obj\Debug\CSharp_01.csproj.AssemblyReference.cache
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\obj\Debug\CSharp_01.CSharpFm_01.resources
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\obj\Debug\CSharp_01.Properties.Resources.resources
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\obj\Debug\CSharp_01.csproj.GenerateResource.cache
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\obj\Debug\CSharp_01.csproj.CoreCompileInputs.cache
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\obj\Debug\CSharp_01.exe
+C:\Users\GameToGo\Desktop\CSharp全部作業\CSharp_01\obj\Debug\CSharp_01.pdb
